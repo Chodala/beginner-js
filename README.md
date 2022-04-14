@@ -1,2 +1,2 @@
 # colors
-first beginner javascript project
+Beginner javascript projects
